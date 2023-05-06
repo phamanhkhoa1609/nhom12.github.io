@@ -1,2 +1,0 @@
-permalink:/html
-permalink:/img
